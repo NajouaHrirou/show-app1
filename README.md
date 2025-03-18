@@ -1,5 +1,5 @@
 
-# 🛑 Save yourself from failing the exam! 🚨
+# 🛑 Save myself from failing the exam! 🚨
 
 Bienvenue dans le projet **Show App** ! Ce projet consiste à développer une application mobile en Flutter qui interagit avec un backend Node.js. L'application permet aux utilisateurs de gérer une liste de films, séries et animés, avec des fonctionnalités CRUD (Create, Read, Update, Delete).
 
@@ -38,20 +38,34 @@ Bienvenue dans le projet **Show App** ! Ce projet consiste à développer une ap
 Le projet est organisé comme suit :
 show-app/
 ├── lib/
+
 │ ├── main.dart
+
 │ ├── screens/
+
 │ │ ├── login_page.dart
+
 │ │ ├── home_page.dart
+
 │ │ ├── profile_page.dart
+
 │ │ ├── add_show_page.dart
+
 │ │ └── update_show_page.dart
+
 │ ├── config/
+
 │ │ └── api_config.dart
+
 │ └── models/
+
 │ └── show_model.dart
+
 ├── assets/
-│ └── images/
+
+
 ├── pubspec.yaml
+
 └── README.md
 
 
